@@ -1,5 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+**Document with screenshots and details**: https://docs.google.com/document/d/1AbT0DukWQZXLyDcn4I1vwcf1Ao80jLzv_a7whsSRIVI/edit
 **Deployed on ** : https://nextmovieapp-nu.vercel.app/
 ## Getting Started
 
